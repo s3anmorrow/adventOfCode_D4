@@ -1,0 +1,20 @@
+{
+  "name": "aoc-d4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Morrow",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "jshintConfig": {
+    "esversion": 6,
+    "strict": "implied",
+    "devel": true,
+    "node": true,
+    "globals": {}
+  }
+}
